@@ -7,6 +7,7 @@ In this project we have created banking system using python for the following fu
 
 
 Under Banking services we are having the given options 
+
     1. NEW ACCOUNT
     2. DEPOSIT AMOUNT
     3. WITHDRAW AMOUNT
@@ -17,12 +18,14 @@ Under Banking services we are having the given options
     8. EXIT
     
  Under Loan Services
+ 
     1.Home Loan
     2.Education Loan
     3.Car Loan
     4.Exit
     
   Under Other Deposits
+  
    1. FIXED DEPOSIT
    2. RECURRING DEPOSIT
    3. Exit
